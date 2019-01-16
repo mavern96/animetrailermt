@@ -3,10 +3,10 @@
   "times_clicked": 5,
   "ads_info": [
     {
-      "id_app": "",
-      "id_banner": "",
-      "id_popup": "",
-      "id_video": "",
+      "id_app": "ca-app-pub-5372862349743986~2319761159",
+      "id_banner": "ca-app-pub-5372862349743986/3796494356",
+      "id_popup": "ca-app-pub-5372862349743986/5273227550",
+      "id_video": "ca-app-pub-5372862349743986/3866134188",
       "type": "admob"
     },
     {
