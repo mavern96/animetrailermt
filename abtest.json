@@ -1,0 +1,22 @@
+{
+  "id_app": "",
+  "times_clicked": 5,
+  "ads_info": [
+    {
+      "id_app": "",
+      "id_banner": "",
+      "id_popup": "",
+      "id_video": "",
+      "type": "admob"
+    },
+    {
+      "id_app": "1386017",
+      "type": "unity"
+    },
+    {
+      "id_app": "5c3eb9778fb9980b287a4074",
+      "app_signature": "9d9ac04142d9b441f3afa3bec1ff19abf131c2a9",
+      "type": "charboost"
+    }
+  ]
+}
